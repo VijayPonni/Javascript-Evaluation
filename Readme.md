@@ -1,5 +1,0 @@
-# Javascript Evaluation #
-
-<br>
-
-* Hi
